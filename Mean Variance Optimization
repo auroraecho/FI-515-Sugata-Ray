@@ -1,0 +1,7 @@
+echo "# FI-515-Sugata-Ray" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/auroraecho/FI-515-Sugata-Ray.git
+git push -u origin main
