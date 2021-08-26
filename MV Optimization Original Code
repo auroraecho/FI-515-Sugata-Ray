@@ -71,3 +71,7 @@ plt.xlabel('Volatility (Std. Deviation)')
 plt.ylabel('Expected Returns')
 plt.title('Efficient Frontier')
 plt.show()
+
+print(returns_annual)
+
+print(cov_daily)
